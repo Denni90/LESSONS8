@@ -1,49 +1,33 @@
 # Prerequisites
+
 *.d
-
-# Object files
-
 *.o
 *.ko
 *.obj
 *.elf
-
-# Linker output
 *.ilk
 *.map
 *.exp
-
-# Precompiled Headers
 *.gch
 *.pch
-
-# Libraries
 *.lib
 *.a
 *.la
 *.lo
-
-# Shared objects (inc. Windows DLLs)
 *.dll
 *.so
 *.so.*
 *.dylib
-
-# Executables
-*.exe
+.exe
 *.out
 *.app
 *.i*86
 *.x86_64
 *.hex
-
-# Debug files
 *.dSYM/
 *.su
 *.idb
 *.pdb
-
-# Kernel Module Compile Results
 *.mod*
 *.cmd
 .tmp_versions/
@@ -51,19 +35,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-
-Task1/Task1.csproj
-Task1/obj
-Task1/bin
-
-Task2/Task2.csproj
-Task2/obj
-Task2/bin
-
-Task3/Task3.csproj
-Task3/obj
-Task3/bin
-
-Task4/Task4.csproj
-Task4/obj
-Task4/bin
+*.csproj
+obj
+bin
